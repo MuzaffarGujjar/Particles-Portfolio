@@ -1,3 +1,3 @@
 # Particles Portfolio
-Particles-Portfolio in HTML CSS AND JAVASCRIPT
-MUST TRY
+Particles Portfolio in HTML CSS and JAVASCRIPT
+Must Try
